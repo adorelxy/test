@@ -6,11 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DemoApplication {
 
-    // 第二个
-    // 第三个
-    // 第四个
-    // dfdfdsfd
-    // dfsdf
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
     }
